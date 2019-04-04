@@ -15,7 +15,7 @@ Simply put, I'm here to help you grow and achieve your best.
 
 # Autonomy
 
-I am **not** a micro-manager. You are on my team because I trust & respect you. I believe the best results are always achieved by hiring the right people, connecting them with interesting work, and removing obstacles in their path.
+I am **not** a micro-manager. You are on my team because I trust & respect you. I believe the best results are always achieved by hiring the right people, connecting them with interesting work, and removing obstacles from their path.
 
 While I'm happy to discuss anything I expect you to make good decisions without my direct input.
 
