@@ -4,11 +4,11 @@ Welcome to the team! I'm excited to get to know you as we work together. I'd lik
 
 # Management Style
 
-I'm a huge fan of [servant leadership](https://en.wikipedia.org/wiki/Servant_leadership). As a manager, I serve you and our team, not the other way around.
+I consider myself to be a [servant leader](https://en.wikipedia.org/wiki/Servant_leadership). Put simply this means I serve you and our team, not the other way around.
 
 My top two priorities are:
 
-1. Attract, hire, and retain A+ players (that's you)
+1. Attract, hire, and retain talented folks (that's you)
 1. Ensure the team is happy, productive, and aligned with the business' goals
 
 Simply put, I'm here to help you grow and achieve your best.
