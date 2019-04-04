@@ -4,7 +4,7 @@ Welcome to the team! I'm excited to get to know you as we work together. I'd lik
 
 # Management Style
 
-I consider myself to be a [servant leader](https://en.wikipedia.org/wiki/Servant_leadership). Put simply this means I serve you and our team, not the other way around.
+I consider myself to be a [servant leader](https://en.wikipedia.org/wiki/Servant_leadership). This means my role is to serve the needs of the team and facilitate its success and the personal growth of its members.
 
 My top two priorities are:
 
