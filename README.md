@@ -77,4 +77,4 @@ We will meet weekly for 30-45 minutes. We'll spend the first 2-3 getting to know
 * I don't believe in "it's done when it's done". I like to see plans with rough estimates for any non-trivial project. I don't expect the plans to be 100% accurate but I need to know if something is going to take a few days, a few weeks, or longer. I use this information to accurately represent the team up and out to the rest of the company.
 * I believe everyone, including myself, makes mistakes. And that's OK. Making mistakes is an important part of learning. All I ask is that we review our mistakes so we can learn from them and improve.
 * I use humor to put people and groups at ease. I believe laughing together makes a team stronger and happier.
-* Dogs are *clearly* superior to cats ;-)
+* Cats are *clearly* superior to dogs ;-)
