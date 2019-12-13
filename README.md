@@ -26,9 +26,13 @@ I've worked remotely, mostly for West Coast companies, for over 10 years and fee
 
 I've also done a lot of public speaking and enjoy helping others improve their speaking skills.
 
-# Management Style
+My pronouns are he/him.
 
-I subscribe to the [servant leader](https://en.wikipedia.org/wiki/Servant_leadership) school of thought. I believe the role of any leader is to serve the needs of those they lead. In my case my job is to support and empower you and the team(s) you manage.
+# Leadership Style
+
+I subscribe to the [servant leader](https://en.wikipedia.org/wiki/Servant_leadership) school of thought. I believe the role of any leader is to serve the needs of those they lead. My job is to support and empower you and the team(s) you manage.
+
+I prefer "leader" and "leadership" to "manager" and "management" when referring to our roles. A person can manage others by using their power in the hierarchy to enforce their decisions. This isn't leadership. The people being managed have no alternative and must follow. True leadership requires the consent of those being led. It can only occur in an atmosphere of mutual trust and respect.
 
 # My Principles
 
