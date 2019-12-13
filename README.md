@@ -20,7 +20,7 @@ It will happen in time. You were hired because we have confidence in you and you
 
 # About Me
 
-I live in Raleigh, NC with my wife and 3 dogs. We have one daughter curently majoring in industrial design at Drexel University. I've worked remotely, mostly for West Coast companies, for over 10 years and feel very comfortable working this way. Before managing full time I was a software engineer and worked mostly on backend and distributed systems.
+I live in Raleigh, NC with my wife and 3 dogs. We have one daughter curently majoring in industrial design at university. I've worked remotely, mostly for West Coast companies, for over 10 years and feel very comfortable working this way. Before managing full time I was a software engineer and worked mostly on backend and distributed systems.
 
 # Management Style
 
