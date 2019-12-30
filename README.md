@@ -34,13 +34,14 @@ My pronouns are he/him.
 
 I subscribe to the [servant leader](https://en.wikipedia.org/wiki/Servant_leadership) school of thought. I believe the role of any leader is to serve the needs of those they lead. My job is to support and empower you and the team(s) you lead.
 
-## Leader vs. Manager
-
-I prefer _leader_ and _leadership_ to _manager_ and _management_. A person can manage others by using their power in the hierarchy to enforce their decisions. This isn't leadership. Those being managed have only two choices: follow or leave. True leadership requires the consent of those being led. It can only occur in an atmosphere of mutual trust and respect.
+**Prefer leader over manager**. A person can manage others by using their power in the hierarchy to enforce their decisions. This isn't leadership. Those being managed have only two choices: follow or leave. True leadership requires the consent of those being led. It can only occur in an atmosphere of mutual trust and respect.
 
 # My Principles
 
-**Execution is everything**. In business results are all that matter. As engineers and leaders of engineers, we're judged on our collective ability to translate ideas into working systems. A team which has great project plans but lacks execution will rapidly 
+**Execution is everything**. In business results are all that matter. As engineers and leaders of engineers, we're judged on our collective ability to translate ideas into working systems. A team which has great project plans but lacks execution will rapidly lose credibility and influence. Companies stagnate and/or shut down when entire Engineering departments are unable to execute.
+
+**"It's done when it's done" doesn't exist**. I like to see plans with rough estimates for any non-trivial project. I don't expect the plans to be 100% accurate but I need to know if something is going to take a few days, a few weeks, or longer. I use this information for outbound communication and to inform higher level planning.
+
 
 **People first**.
 
@@ -56,11 +57,6 @@ I prefer _leader_ and _leadership_ to _manager_ and _management_. A person can m
 
 **I ask a lot of questions**. This isn't an attempt to second-guess your work or challenge your decisions. I ask to help me understand your decisions and the thought process behind them.
 
-**I don't believe in "it's done when it's done"**. I like to see plans with rough estimates for any non-trivial project. I don't expect the plans to be 100% accurate but I need to know if something is going to take a few days, a few weeks, or longer. I use this information to accurately represent the team up and out to the rest of the company.
-
 **Work should be generally fun**. I believe laughing and having fun together makes teams stronger and happier.
 
 **Dogs are clearly superior to cats**. ;-)
-
-https://www.youtube.com/watch?v=HEXWRTEbj1I
-https://youtu.be/y6120QOlsfU?t=10
