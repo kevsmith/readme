@@ -42,14 +42,23 @@ I subscribe to the [servant leader](https://en.wikipedia.org/wiki/Servant_leader
 
 **"It's done when it's done" doesn't exist**. I like to see plans with rough estimates for any non-trivial project. I don't expect the plans to be 100% accurate but I need to know if something is going to take a few days, a few weeks, or longer. I use this information for outbound communication and to inform higher level planning.
 
-
 **People first**.
-
-**Autonomy**.
 
 **Process should serve people**.
 
+**Autonomy requires trust**.
+
 # Communication
+
+**Everyone should have a one-on-one**.
+
+**Explict trumps implicit every time**.
+
+**Write stuff down**.
+
+**Obey the principal of least surprise**.
+
+**Assume good intentions until proven otherwise**.
 
 # Personal Quirks
 
