@@ -16,7 +16,7 @@ It will happen in time. You were hired because we have confidence in you and you
 
 # This Isn't...
 
-...a description of my expectations for you or my plans for our organization and products. The guide is meant to be informational. If it has helped you understand one part of your role (working with me) then it has done its job.
+...a description of my expectations for you or my plans for our organization and products. The guide is meant to be informational. If it helped you understand one part of your role (working with me) then it's done its job.
 
 # About Me
 
@@ -38,7 +38,7 @@ I prefer _leader_ and _leadership_ to _manager_ and _management_. A person can m
 
 # My Principles
 
-**Execution is everything**.
+**Execution is everything**. In business results are all that matter. As engineers and leaders of engineers, we're judged on our collective ability to translate ideas into working systems. A team which has great project plans but lacks execution will rapidly 
 
 **People first**.
 
@@ -60,3 +60,5 @@ I prefer _leader_ and _leadership_ to _manager_ and _management_. A person can m
 
 **Dogs are clearly superior to cats**. ;-)
 
+https://www.youtube.com/watch?v=HEXWRTEbj1I
+https://youtu.be/y6120QOlsfU?t=10
