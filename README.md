@@ -20,7 +20,7 @@ It will happen in time. You were hired because we have confidence in you and you
 
 # About Me
 
-I live in Raleigh, NC with my wife and 3 dogs. We have one daughter curently majoring in industrial design at university. 
+I live in Raleigh, NC with my wife and 3 dogs. We have one daughter curently majoring in industrial design.
 
 I've worked remotely, mostly for West Coast companies, for over 10 years and feel very comfortable working this way. Before managing full time I was a software engineer and worked mostly on backend and distributed systems. I have experience with a number of programming languages including Erlang, Elixir, SQL, Go, Python, and C/C++.
 
@@ -32,31 +32,24 @@ My pronouns are he/him.
 
 # Leadership Style
 
-I subscribe to the [servant leader](https://en.wikipedia.org/wiki/Servant_leadership) school of thought. I believe the role of any leader is to serve the needs of those they lead. My job is to support and empower you and the team(s) you lead.
+**Leaders serve those they lead**. I subscribe to the [servant leader](https://en.wikipedia.org/wiki/Servant_leadership) school of thought. I believe the role of any leader is to serve the needs of those they lead. My job is to support and empower you and the team(s) you lead. Your job is to do the same for your team(s).
 
-**Prefer leader over manager**. A person can manage others by using their power in the hierarchy to enforce their decisions. This isn't leadership. Those being managed have only two choices: follow or leave. True leadership requires the consent of those being led. It can only occur in an atmosphere of mutual trust and respect.
+**"Leader" > "Manager"**. A person can manage others by wielding power conferred by organizational hierarchy to enforce their decisions. Those being managed have only two choices: follow or leave. This isn't leadership. True leadership requires the consent of those being led. It can only occur in an atmosphere of mutual trust and respect.
+
+**Leaders are ultimately responsible for team deliverables**. A good leader is constantly out in front of their team identifying problems and clearing obstacles. This allows the leader to adopt a more proactive stance leading to better results and fewer surprises.
 
 # My Principles
 
-**Execution is everything**. In business results are all that matter. As engineers and leaders of engineers, we're judged on our collective ability to translate ideas into working systems. A team which has great project plans but lacks execution will rapidly lose credibility and influence. Companies stagnate and/or shut down when entire Engineering departments are unable to execute.
+**Execution is everything**. In business results are all that matter. As engineers and leaders of engineers, we're judged on our collective ability to translate ideas into working systems. A team which has great plans and poor execution will rapidly lose credibility and influence. Companies stagnate and/or shut down when entire Engineering departments are unable to execute.
 
 **"It's done when it's done" doesn't exist**. I like to see plans with rough estimates for any non-trivial project. I don't expect the plans to be 100% accurate but I need to know if something is going to take a few days, a few weeks, or longer. I use this information for outbound communication and to inform higher level planning.
-
-**People first**.
-
-**Process should serve people**.
-
-**Autonomy requires trust**.
+ 
 
 # Communication
 
-**Everyone should have a one-on-one**.
+**Write stuff down**. 
 
 **Explict trumps implicit every time**.
-
-**Write stuff down**.
-
-**Obey the principal of least surprise**.
 
 **Assume good intentions until proven otherwise**.
 
