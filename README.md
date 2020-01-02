@@ -43,6 +43,8 @@ My pronouns are he/him.
 **Execution is everything**. Businesses run on results. As engineers and leaders of engineers, we're judged on our collective ability to translate ideas into working systems. A team which has great plans and poor execution will rapidly lose credibility and influence. Companies stagnate and/or shut down when entire Engineering departments are unable to execute.
 
 **"It's done when it's done" doesn't exist**. I like to see plans with rough estimates for any non-trivial project. I don't expect the plans to be 100% accurate but I need to know if something is going to take a few days, a few weeks, or longer. I use this information for outbound communication and to inform higher level planning.
+
+**People first**.
  
 
 # Communication
