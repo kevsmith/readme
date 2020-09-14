@@ -2,6 +2,18 @@
 
 Welcome to the team! I'm excited to get to know you as we work together. I'd like to share some of my management philosophies and personal information to jumpstart the process and help you feel at home.
 
+# About Me
+
+I live in Raleigh, NC with my wife and 3 dogs. We have one daughter curently majoring in industrial design.
+
+I've worked remotely, mostly for West Coast companies, for over 10 years and feel very comfortable working this way. Before managing full time I was a software engineer and worked mostly on backend and distributed systems. I have experience with a number of programming languages including Erlang, Elixir, SQL, Go, Python, and C/C++.
+
+I still enjoy coding and try to have at least one or two side-projects active.
+
+I've also done a lot of public speaking and enjoy helping others improve their speaking skills.
+
+My pronouns are he/him.
+
 # Management Style
 
 I consider myself to be a [servant leader](https://en.wikipedia.org/wiki/Servant_leadership). This means my role is to serve the needs of the team, facilitate its success, and the personal growth of its members.
@@ -52,7 +64,7 @@ Absent special circumstances already mentioned, I will try very hard to not cont
 
 # Communication
 
-Open, direct, and respectful communication is vital to the team's success. Everyone on the team should feel empowered to participate in discussions and team decisions. Sometimes this means asking difficult questions, championing an unpopular idea, or pushing back against the status quo. It's natural for tempers to flare during challenging conversations. I expect everyone, including myself, to remain respectful and keep an open mind. 
+Open, direct, and respectful communication is vital to the team's success. Everyone on the team should feel empowered to participate in discussions and team decisions. Sometimes this means asking difficult questions, championing an unpopular idea, or pushing back against the status quo. It's natural for tempers to flare during challenging conversations. I expect everyone, including myself, to remain respectful and keep an open mind.
 
 I will intervene if I feel a conversation is not meeting this criteria. Even at such times I will strive to be respectful and offer direct feedback about my concerns and guide the discussion towards a more productive path.
 
