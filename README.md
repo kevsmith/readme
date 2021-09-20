@@ -4,7 +4,7 @@ Welcome to the team! I'm excited to get to know you as we work together. I'd lik
 
 # About Me
 
-I live in Raleigh, NC with my wife and 3 dogs. We have one daughter curently majoring in industrial design.
+I live in Raleigh, NC with my wife and 3 dogs. We have a daughter who's studying industrial design at university.
 
 I've worked remotely, mostly for West Coast companies, for over 10 years and feel very comfortable working this way. Before managing full time I was a software engineer and worked mostly on backend and distributed systems. I have experience with a number of programming languages including Erlang, Elixir, SQL, Go, Python, and C/C++.
 
