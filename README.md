@@ -4,7 +4,7 @@ Welcome to the team! I'm excited to get to know you as we work together. I'd lik
 
 # About Me
 
-I live in Raleigh, NC with my wife and 3 dogs. We have a daughter who's studying industrial design at university.
+I live in Raleigh, NC with my wife and 3 dogs. Our daughter recently graduated from Drexel University and lives in Philadelphia, PA.
 
 I've worked remotely, mostly for West Coast companies, for over 10 years and feel very comfortable working this way. Before managing full time I was a software engineer and worked mostly on backend and distributed systems. I have experience with a number of programming languages including Erlang, Elixir, SQL, Go, Python, and C/C++.
 
@@ -80,7 +80,7 @@ Feel free to mark blocks of time as "DNS" (**D**o **N**ot **S**chedule) when you
 
 ## 1:1s
 
-We will meet weekly for 30-45 minutes. We'll spend the first 2-3 getting to know each other. After that the agenda is up to you so please come prepared.
+We will meet regularly for 30-45 minutes. Frequency -- weekly or biweekly -- is up to you. We'll spend the first 2-3 getting to know each other. After that the agenda is up to you so please come prepared.
 
 # Personal Miscellanea
 
